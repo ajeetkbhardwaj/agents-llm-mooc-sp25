@@ -1,0 +1,4 @@
+.ruff_cache/
+info.txt
+__pycache__/
+*.pyc
